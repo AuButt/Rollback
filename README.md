@@ -6,4 +6,7 @@ While initially going into this project, I wanted to implement the existing GGPO
 
 <img width="426" height="240" alt="SI-RB" src="https://github.com/user-attachments/assets/95406cdb-c1d5-4473-a9cc-fceb3c29a783" />
 
+Local Build of simulating Rollback^^^
 
+--STILL WIP--
+Because I decided to build the framework instead of incorporating a middleware, some issues arose when implementing Unity's Relay breaking the systems online capability
